@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorRealTime_Blazor", "BlazorRealTime_Blazor\BlazorRealTime_Blazor.csproj", "{B05475E8-D6EE-4F06-8B4F-5AF97AF30EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorRealTime_Server", "BlazorRealTime_Server\BlazorRealTime_Server.csproj", "{4F4D8D08-C537-4ACB-BE0D-7074BDEB7F71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05475E8-D6EE-4F06-8B4F-5AF97AF30EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05475E8-D6EE-4F06-8B4F-5AF97AF30EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05475E8-D6EE-4F06-8B4F-5AF97AF30EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05475E8-D6EE-4F06-8B4F-5AF97AF30EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4D8D08-C537-4ACB-BE0D-7074BDEB7F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4D8D08-C537-4ACB-BE0D-7074BDEB7F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4D8D08-C537-4ACB-BE0D-7074BDEB7F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4D8D08-C537-4ACB-BE0D-7074BDEB7F71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E921D285-36DB-44E4-A67C-87412443DCF0}
+	EndGlobalSection
+EndGlobal
